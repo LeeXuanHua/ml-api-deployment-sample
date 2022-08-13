@@ -41,6 +41,8 @@ git push heroku master
 ```
 
 #### Test endpoint with POST method:
+
+Endpoint: https://ml-api-deployment-simple.herokuapp.com/
 ```
 {
     "YearsAtCompany":1,
